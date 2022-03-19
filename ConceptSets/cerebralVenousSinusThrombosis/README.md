@@ -1,5 +1,8 @@
 ## Cerebral venous sinus thrombosis
 
+### Description  
+This concept study was developed ..... 
+
 ### Associated reference
 ```BibTeX
 @article{https://doi.org/10.1002/pds.5419,
@@ -17,5 +20,3 @@ abstract = {Abstract Background Thrombosis with thrombocytopenia syndrome (TTS) 
 }
 ```  
 
-### Description  
-This concept study was developed ..... 
