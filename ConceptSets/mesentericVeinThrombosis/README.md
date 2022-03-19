@@ -1,7 +1,7 @@
-## Pulmonary embolism
+## Mesenteric vein thrombosis
 
 ### Clinical description
-Pulmonary embolism....
+Mesenteric vein thrombosis....
 
 ### Creation of concept set  
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.

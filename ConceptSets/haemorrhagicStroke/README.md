@@ -1,7 +1,7 @@
-## Pulmonary embolism
+## Haemorrhagic stroke
 
 ### Clinical description
-Pulmonary embolism....
+Haemorrhagic stroke....
 
 ### Creation of concept set  
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.
