@@ -1,4 +1,4 @@
-# OmopConditionConceptSets
+# OmopConceptSets
 
 ## Description
 This repository contains concept sets from previously published research using the OMOP CDM.  
