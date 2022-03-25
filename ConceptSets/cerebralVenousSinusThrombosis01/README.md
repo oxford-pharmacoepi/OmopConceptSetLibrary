@@ -1,15 +1,15 @@
 ## Cerebral venous sinus thrombosis 01
 
-### Clinical description
+### Description
 Cerebral venous sinus thrombosis (CVST) occurs when a blood clot forms in the brain’s venous sinuses.
 
-### Creation of concept set  
+### Development  
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.
 
 ### Databases used  
 IQVIA Longitudinal Patient Data (LPD) France; IQVIA Disease Analyser (DA) Germany; IQVIA Longitudinal Patient Data (LPD) Italy; Integrated Primary Care Information (IPCI); Information System for Research in Primary Care (SIDIAP) with minimum basic set of hospital discharge data (CMBD- HA); Clinical Practice Research Datalink (CPRD) Aurum; Clinical Practice Research Datalink (CPRD) GOLD; Health Informatics Centre at the University of Dundee (HIC Dundee).
 
-### Associated reference
+### Reference
 ```BibTeX
 @article{https://doi.org/10.1002/pds.5419,
 author = {Burn, Edward and Li, Xintong and Kostka, Kristin and Stewart, Henry Morgan and Reich, Christian and Seager, Sarah and Duarte-Salles, Talita and Fernandez-Bertolin, Sergio and Aragón, María and Reyes, Carlen and Martinez-Hernandez, Eugenia and Marti, Edelmira and Delmestri, Antonella and Verhamme, Katia and Rijnbeek, Peter and Horban, Scott and Morales, Daniel R. and Prieto-Alhambra, Daniel},
@@ -26,3 +26,5 @@ abstract = {Abstract Background Thrombosis with thrombocytopenia syndrome (TTS) 
 }
 ```  
 
+### Change log
+None

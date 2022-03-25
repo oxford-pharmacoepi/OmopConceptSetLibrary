@@ -1,12 +1,8 @@
 ## Hepatic vein thrombosis 01
 
-### Clinical description
+### Description
 Hepatic vein thrombosis....
-
-### Creation of concept set  
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.
-
-### Databases used  
 IQVIA Longitudinal Patient Data (LPD) France; IQVIA Disease Analyser (DA) Germany; IQVIA Longitudinal Patient Data (LPD) Italy; Integrated Primary Care Information (IPCI); Information System for Research in Primary Care (SIDIAP) with minimum basic set of hospital discharge data (CMBD- HA); Clinical Practice Research Datalink (CPRD) Aurum; Clinical Practice Research Datalink (CPRD) GOLD; Health Informatics Centre at the University of Dundee (HIC Dundee).
 
 ### Associated reference
@@ -26,3 +22,5 @@ abstract = {Abstract Background Thrombosis with thrombocytopenia syndrome (TTS) 
 }
 ```  
 
+### Change log
+None

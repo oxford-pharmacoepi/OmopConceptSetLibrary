@@ -1,10 +1,10 @@
 ## Deep vein thrombosis 01
 
-### Clinical description
+### Description
 Deep vein thrombosis broad ....
 Note, this is not including: Embolism and thrombosis of other specified veins (https://athena.ohdsi.org/search-terms/terms/45586638), Embolism and thrombosis of unspecified vein (https://athena.ohdsi.org/search-terms/terms/45572145), and Embolism and thrombosis of unspecified vein (https://athena.ohdsi.org/search-terms/terms/44834756). The codes these map to would not be considered to indicate dvt, but the source codes could do (in the below study these were also identified with a lookup of condition source concepts.
 
-### Creation of concept set  
+### Development 
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.
 
 ### Databases used  
@@ -26,4 +26,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/pds.5419},
 abstract = {Abstract Background Thrombosis with thrombocytopenia syndrome (TTS) has been reported among individuals vaccinated with adenovirus-vectored COVID-19 vaccines. In this study, we describe the background incidence of non-vaccine induced TTS in six European countries. Methods Electronic medical records from France, the Netherlands, Italy, Germany, Spain, and the United Kingdom informed the study. Incidence rates of cerebral venous sinus thrombosis (CVST), splanchnic vein thrombosis (SVT), deep vein thrombosis (DVT), pulmonary embolism (PE), and myocardial infarction or ischemic stroke, all with concurrent thrombocytopenia, were estimated among the general population of persons in a database between 2017 and 2019. A range of additional potential adverse events of special interest for COVID-19 vaccinations were also studied in a similar manner. Findings A total of 38 611 617 individuals were included. Background rates ranged from 1.0 (95\% CI: 0.7–1.4) to 8.5 (7.4–9.9) per 100 000 person-years for DVT with thrombocytopenia, from 0.5 (0.3–0.6) to 20.8 (18.9–22.8) for PE with thrombocytopenia, from 0.1 (0.0–0.1) to 2.5 (2.2–2.7) for SVT with thrombocytopenia, and from 1.0 (0.8–1.2) to 43.4 (40.7–46.3) for myocardial infarction or ischemic stroke with thrombocytopenia. CVST with thrombocytopenia was only identified in one database, with incidence rate of 0.1 (0.1–0.2) per 100 000 person-years. The incidence of non-vaccine induced TTS increased with age, and was typically greater among those with more comorbidities and greater medication use than the general population. It was also more often seen in men than women. A large proportion of those affected were seen to have been taking antithrombotic and anticoagulant therapies prior to their event. Interpretation Although rates vary across databases, non-vaccine induced TTS has consistently been seen to be a very rare event among the general population. While still remaining very rare, rates were typically higher among older individuals, and those affected were also seen to generally be male and have more comorbidities and greater medication use than the general population.}
 }
 ```  
+
+### Change log
+None
 

@@ -1,9 +1,9 @@
 ## Heart failure 01
 
-### Clinical description
+### Description
 Heart failure...
 
-### Creation of concept set  
+### Development  
 This concept study was developed for identifying adverse events of special interest (AESI) for COVID-19 vaccinations. The concept set was reviewed by two of the study authors and further refined based feedback from regulators.
 
 ### Databases used  
@@ -26,3 +26,5 @@ abstract = {Abstract Background Thrombosis with thrombocytopenia syndrome (TTS) 
 }
 ```  
 
+### Change log
+None
