@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Clinical Observation",
+        "CONCEPT_CODE": "66678-4",
+        "CONCEPT_ID": 40769338,
+        "CONCEPT_NAME": "History of Diabetes (regardless of treatment) [PhenX]",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "LOINC"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Context-dependent",
+        "CONCEPT_CODE": "472969004",
+        "CONCEPT_ID": 43021173,
+        "CONCEPT_NAME": "History of diabetes mellitus type 2",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Context-dependent",
+        "CONCEPT_CODE": "735199000",
+        "CONCEPT_ID": 42539022,
+        "CONCEPT_NAME": "History of diabetes related lower limb amputation",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "Context-dependent",
+        "CONCEPT_CODE": "59801000119102",
+        "CONCEPT_ID": 46270562,
+        "CONCEPT_NAME": "History of small vessel disease due to diabetes mellitus",
+        "DOMAIN_ID": "Observation",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "VOCABULARY_ID": "SNOMED"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
